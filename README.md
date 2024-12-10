@@ -24,11 +24,13 @@ Frontend:
 React.js
 Next.js
 Redux
+
 Backend:
 
 Node.js
 Express.js
 NestJS
+
 Base de datos:
 
 PostgreSQL
