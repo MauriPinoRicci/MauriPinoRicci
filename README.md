@@ -17,23 +17,14 @@ En este momento, estoy enfocado en realizar proyectos que me permitan seguir apr
 Mi meta es usar la programación como herramienta para resolver problemas reales y, en el camino, generar un impacto positivo en la vida de las personas. Quiero trabajar en proyectos que me desafíen a pensar de manera diferente y me ayuden a seguir creciendo como profesional.
 
 Tecnologías que manejo
+
 Gracias al Bootcamp de Henry, he adquirido una base sólida en diversas tecnologías que utilizo para construir aplicaciones modernas y escalables. Algunas de las principales tecnologías que manejo son:
 
-Frontend:
+Frontend: React.js - Next.js - Redux
 
-React.js
-Next.js
-Redux
+Backend: Node.js - Express.js - NestJS
 
-Backend:
-
-Node.js
-Express.js
-NestJS
-
-Base de datos:
-
-PostgreSQL
+Base de datos: PostgreSQL
 
 Otras herramientas:
 
@@ -49,9 +40,12 @@ He trabajado en varios proyectos, tanto de frontend como de backend, y siempre b
 Pasión por lo que hago: Me encanta programar y disfruto resolver problemas complejos.
 
 Compromiso y calidad: Siempre busco entregar proyectos bien hechos y optimizados.
+
 Aprendizaje continuo: Siempre estoy en búsqueda de nuevas tecnologías y métodos para mejorar.
 
 ¡Conectemos!
+
+
 Si estás buscando a alguien para desarrollar un proyecto juntos o necesitas ayuda con algo relacionado con la programación, no dudes en contactarme.
 
 Correo: mauripino69@gmail.com
