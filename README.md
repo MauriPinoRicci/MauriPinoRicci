@@ -1,4 +1,4 @@
-# 👨‍💻 Mauricio Pino Ricci
+# 👨‍💻 Mauricio Joaquín Pino Ricci
 
 ### 💻 Desarrollador Fullstack | 🎯 Especialista en Backend  
 
