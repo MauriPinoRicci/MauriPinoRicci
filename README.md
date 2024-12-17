@@ -1,20 +1,22 @@
 # 👨‍💻 Mauricio Pino Ricci
 
-### 💻 Desarrollador Fullstack | 🎯 Especialista en Backend
+### 💻 Desarrollador Fullstack | 🎯 Especialista en Backend  
 
 ---
 
 ### 🌟 Sobre mí  
-👋 ¡Hola! Soy un **desarrollador Fullstack** con un fuerte enfoque en el desarrollo **Backend**. Me apasiona crear aplicaciones escalables, optimizadas y funcionales con tecnologías como **Node.js**, **Express**, **NestJS** y **PostgreSQL**. 🚀  
+👋 ¡Hola! Soy **Mauricio Joaquín Pino Ricci**, un **Desarrollador Fullstack** especializado en desarrollo **Backend**. Trabajo con tecnologías como **Node.js**, **Express**, **NestJS** y **PostgreSQL** para construir aplicaciones escalables y optimizadas. 🚀  
 
-Siempre estoy buscando soluciones innovadoras para problemas complejos, con el objetivo de dejar una huella positiva a través de la tecnología.  
+También tengo experiencia en desarrollo **Frontend** utilizando **React**, **Next.js**, **Redux** y **TypeScript**, lo que me permite crear interfaces dinámicas y funcionales. Con un sólido dominio de **JavaScript**, **HTML** y **CSS3**, integro ambos lados del desarrollo para ofrecer soluciones completas, robustas y eficientes.  
+
+Me apasiona el desarrollo de software y siempre busco mejorar la arquitectura y el rendimiento de las aplicaciones en las que trabajo.  
 
 ---
 
 ### 🙋‍♂️ ¿Quién soy?  
-- 🖥️ **Nombre:** Mauricio Pino Ricci  
+- 🖥️ **Nombre:** Mauricio Joaquín Pino Ricci  
 - 💡 **Motivación:** Resolver problemas reales con código innovador.  
-- 🌎 **Objetivo:** Trabajar en proyectos que impacten positivamente la vida de las personas.
+- 🌎 **Objetivo:** Trabajar en proyectos que impacten positivamente la vida de las personas.  
 
 ---
 
@@ -33,11 +35,14 @@ Siempre estoy buscando soluciones innovadoras para problemas complejos, con el o
 
 ### 🚀 Tecnologías que manejo  
 
-| **Frontend**   | **Backend**      | **Base de datos** | **Herramientas** |
-|-----------------|------------------|-------------------|------------------|
-| React.js ⚛️    | Node.js 🟢      | PostgreSQL 🐘     | Git 🛠️          |
-| Next.js 🌐     | Express.js 🚀    |                   |                  |
-| Redux 🔄       | NestJS 🛡️       |                   |                  |
+| **Frontend**   | **Backend**      | **Base de datos** | **Herramientas**   |  
+|-----------------|------------------|-------------------|--------------------|  
+| JavaScript ⚡   | Node.js 🟢       | PostgreSQL 🐘     | Git 🛠️            |  
+| HTML 🟠         | Express.js 🚀    | MySQL 🛢️         | Postman 📮         |  
+| CSS 🎨          | NestJS 🛡️       | MongoDB 🍃       | Docker 🐳          |  
+| React.js ⚛️     | Swagger 📜       | Mongoose 🍂       | Cloudinary ☁️     |  
+| Next.js 🌐      | REST API 🛠️     |                   | Visual Studio 🖥️   |  
+| Redux 🔄        |                 |                   | Tailwind 💨        |  
 
 ---
 
@@ -47,7 +52,7 @@ Siempre estoy buscando soluciones innovadoras para problemas complejos, con el o
 - 🎨 **Mejora de la experiencia de usuario**  
 - 🔧 **Escalabilidad y mantenibilidad**  
 
-💡 **¿Tienes una idea?** ¡Hablemos! Estoy abierto a colaborar y aportar mi experiencia.
+💡 **¿Tienes una idea?** ¡Hablemos! Estoy abierto a colaborar y aportar mi experiencia.  
 
 ---
 
@@ -67,4 +72,4 @@ Siempre estoy buscando soluciones innovadoras para problemas complejos, con el o
 
 ---
 
-✨ ¡Gracias por visitar mi perfil! Espero poder colaborar contigo pronto. 🚀
+✨ ¡Gracias por visitar mi perfil! Espero poder colaborar contigo pronto. 🚀  
